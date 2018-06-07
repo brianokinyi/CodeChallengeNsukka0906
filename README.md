@@ -22,7 +22,7 @@ You can participate on as many challenges as you wish:
   - Airtime and Swag for the first 30 successful participants
 
 ## Task
-In this code challenge you should create a 2 way SMS app that can be accessed on the Sandbox. The 2 Way SMS App should allow users to send and SMS from their simulator to your short code, and get a simple reply.
+In this code challenge you should create a 2 way SMS app that can be accessed on the Sandbox. The 2 Way SMS App should allow users to send an SMS from their simulator to your short code, and get a simple reply.
 
 ### Task Workflow:
 1. User ends an SMS with any content text.
