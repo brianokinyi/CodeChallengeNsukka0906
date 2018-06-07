@@ -1,12 +1,12 @@
-# Africa's Talking Code Challenge May 2018
-[Africa's Talking](https://africastalking.com/) is a Pan-African, Platform as a Service (PaaS) company based in Nairobi, Kenya.
+# Africa's Talking Code Challenge  
+[Africa's Talking](https://africastalking.com/) is a Pan-African, Platform as a Service (PaaS) company based in 7 African countries including : Lagos, Nigeria, at 249 Herbert Macaulay Way , Sabo - Yaba.
 
 Our world-class infrastructure is created for developers and relied upon by businesses. We avail the complexity of SMS, VOICE, USSD, AIRTIME & PAYMENTS via simple API calls and at a fraction of the cost.
 
 ### Steps to follow:
 To join this challenge:
-  - Read the challenge [here](http://atdevoutreach.viewdocs.io/codeChallenge05018/CodeChallenge05018/)
-  - Follow the steps to submit your code [here](http://atdevoutreach.viewdocs.io/codeChallenge05018/CodeChallengeSteps/)
+  - Read the challenge [here](http://atdevoutreach.viewdocs.io/CodeChallenge0906/CodeChallenge09062018/)
+  - Follow the steps to submit your code [here](http://atdevoutreach.viewdocs.io/CodeChallenge0906/CodeChallengeSteps/)
 
 ## About the Code Challenge:
 The code challenge is a great opportunity for developers around the world to try out our APIs and also get noticed for it.
@@ -18,17 +18,19 @@ Winners can expect great rewards including but not limited to:
 
 ## Simple Unchanging Rules
 The code challenge is and will always be judged using the following criteria
-  - Correct fork, branch and pull request
-  - First 1-10 developers whose code runs successfully on the sandbox win
-  - In case only one winner can be had, code quality and structure will also be considered
+  - A Correct fork, branch and pull request
+  - Using the GitHub Pull Request Time Stamp and correct code quality & structure, the first developer whose code runs successfully on the sandbox/simulator wins
+  - Other developers who submit successfully MAY also get rewarded with secondary items
+  - Code quality and structure will be evaluated
   - The order for pull requests will be followed, first come first win basis!
 
 ## Terms and Conditions
-You can participate on as many challenges as you will:
+You can participate on as many challenges as you wish:
   - Africa's Talking reserves the right to announce the winners
-  - Code Challenges are time bound
-  - Additional rules will be provided on the code challenge and will vary for each challenge
+  - Code Challenges are time bound - the time restriction is specified on the challenge
+  - Additional rules MAY be provided on the code challenge and will vary for each challenge
   - You are free to use all manner of tools
+  - Successive interviews for projects MAY be run to satisfy participating Africa's Talking Partners
 
-## Slack
+## Get Support from the Africa's Talking Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)

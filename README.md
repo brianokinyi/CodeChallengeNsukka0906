@@ -1,4 +1,4 @@
-# SMS Code Challenge - 14th May 2018
+# 2 Way SMS Code Challenge: University of Nigeria - Nsukka
 ## Due: 9th June or Earlier
 #### This code challenge is due on the 9th of June or earlier. 
 
@@ -41,8 +41,6 @@ You can use the following resources to get you started on your way:
 * [SMS Sending Documentation](http://docs.africastalking.com/sms/sending)
 * [SMS Receiving Documentation](http://docs.africastalking.com/sms/callback)
 * [Other SMS Help articles](http://help.africastalking.com/sms)
-- FAQs on Setting up the [Voice API](http://help.africastalking.com/voice)
-- FAQs on setting up the [USSD API](http://help.africastalking.com/ussd)
 - More on [Logging in, Signing up/Registration, Verifying/Activating your account, Managing Teams and applications](http://help.africastalking.com/website)
 - Videos on getting started [on the Africa's Talking Sandbox](https://www.dropbox.com/sh/qq086503d5zaq7l/AADEo-oazNF_PgYIPRjPpeCua?dl=0)
 

@@ -13,10 +13,8 @@ You can use the following resources to get you started on your way:
 * [SMS Sending Documentation](http://docs.africastalking.com/sms/sending)
 * [SMS Receiving Documentation](http://docs.africastalking.com/sms/callback)
 * [Other SMS Help articles](http://help.africastalking.com/sms)
-- FAQs on Setting up the [Voice API](http://help.africastalking.com/voice)
-- FAQs on setting up the [USSD API](http://help.africastalking.com/ussd)
 - More on [Logging in, Signing up/Registration, Verifying/Activating your account, Managing Teams and applications](http://help.africastalking.com/website)
 - Videos on getting started [on the Africa's Talking Sandbox](https://www.dropbox.com/sh/qq086503d5zaq7l/AADEo-oazNF_PgYIPRjPpeCua?dl=0)
 
-## Slack
+## Get Support from the Africa's Talking Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)
