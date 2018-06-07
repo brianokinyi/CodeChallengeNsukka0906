@@ -31,7 +31,7 @@ In this code challenge you should create a 2 way SMS app that can be accessed on
 4. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/).
 
 ### Additional:
-1. Head over to the code challenge [here](http://atdevoutreach.viewdocs.io/CodeChallengeNsukka0906/CodeChallengeNsukka09062018/) to get acquainted.
+1. See the online version of the code challenge [here](http://atdevoutreach.viewdocs.io/CodeChallengeNsukka0906/CodeChallengeNsukka09062018/) to get acquainted.
 
 2.  Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/CodeChallengeNsukka0906/CodeChallengeSteps/)
 
@@ -46,7 +46,7 @@ You can use the following resources to get you started on your way:
 
 
 ## About Africa's Talking Code Challenges
-Please read the overview [here.](http://atdevoutreach.viewdocs.io/CodeChallengeNsukka0906/)
+Please read the overview for all code challenges [here.](http://atdevoutreach.viewdocs.io/CodeChallengeNsukka0906/)
 
 ## Get Support on the Africa's Talking Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)

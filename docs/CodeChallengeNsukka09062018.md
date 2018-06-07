@@ -5,7 +5,7 @@ In this code challenge you should create a 2 way SMS app that can be accessed on
 1. User ends an SMS with any content text.
 2. You Short code App responds with the Message: "I am a lumberjack. I sleep all night and work all day!"
 3. Add to the README.md a small guide of how to access your serive on the Simulator.
-4. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/).
+4. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/) or any other hosting platform of choice.
 
 ### Resources
 You can use the following resources to get you started on your way:
