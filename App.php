@@ -6,7 +6,14 @@
             // 
         }
 
-        public function app($phone) {
+        public function app($details, $phone) {
+            if (count($details)==1){
+                $ussd_text="CON \nYour full name?\nFormat: FirstName LastName";
+                ussd_proceed($ussd_text); 
+            } 
+
+
+            
             // Include Africa's Talking gateway
             require_once('resources/AfricasTalkingGateway.php');
 
