@@ -1,0 +1,13 @@
+{
+    "name": "brianokinyi/code-challenge-nsukka0906",
+    "description": "Code challenge",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "brianokinyi",
+            "email": "brianokinyi.bo@gmail.com"
+        }
+    ],
+    "require": {}
+}
