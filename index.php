@@ -56,7 +56,7 @@
     }  	
  
     function displaymenu(){  
-		$ussd_text="CON 1. Run app\n2. About";  
+		$ussd_text="CON 1. Send Message\n2. About";  
 		ussd_proceed($ussd_text);  
     }
 ?>
