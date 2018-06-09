@@ -15,7 +15,7 @@
     // $ussdString = $_POST['text'];
 
     // Required my class
-    require_once('App.php');
+    require_once('Receive.php');
 
     //set default level to zero
 	$level = 0; 
@@ -41,8 +41,8 @@
         switch ($ussdString_explode[0])  
             {  
             case 1: 			
-                $app = new App();
-                $app->app($phonenumber);
+                $app = new Receive();
+                $app->receive($ussdString_explode, $phonenumber);
                 break;   
             case 2:  //About
                 $about = new About();
