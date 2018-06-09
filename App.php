@@ -12,8 +12,11 @@
                 $ussd_text="CON \nReply with the message you want to send!";
                 ussd_proceed($ussd_text); 
 
-            } else if (count($details)==1) {
-            
+            } else if (count($details)==2) {
+
+                $message = $details[1];
+
+                        
                 // Include Africa's Talking gateway
                 require_once('resources/AfricasTalkingGateway.php');
     
@@ -22,11 +25,8 @@
                 require_once('env.php');
     
                 // Client phone number
-                $recipients = $phone;
-                
-                // Tell 'em what I am... haha
-                $message    = "I am a lumberjack. I sleep all night and work all day!";
-    
+                $recipients = '12345';
+
                 // Create a new instance of the bad ass gateway
                 $gateway    = new AfricasTalkingGateway($username, $apikey);
                
